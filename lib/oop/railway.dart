@@ -52,3 +52,7 @@ void trainProgram()
   }
   while(search!=0);
 }
+void main()
+{
+  trainProgram();
+}
