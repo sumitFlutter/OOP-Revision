@@ -16,3 +16,7 @@ void displayProgram()
   Daughter daughter= Daughter();
   daughter.display();
 }
+void main()
+{
+  displayProgram();
+}
