@@ -30,3 +30,7 @@ void areaOfShape()
   Rectangle r1=Rectangle();
   r1.area();
 }
+void main()
+{
+  areaOfShape();
+}
